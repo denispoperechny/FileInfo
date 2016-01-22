@@ -1,3 +1,9 @@
+-- TODO:
+-- Split onto more granular tables
+-- Word - NVARCHAR(MAX) indexing issue
+-- Add unique indexes (example - prevent identical files)
+-- Consider 3rd normal form
+
 USE [FileInfo]
 GO
 
